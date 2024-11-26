@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65987894906",
+    "project_id": "app-qk",
+    "storage_bucket": "app-qk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65987894906:android:34bdb06d482d498f1be5c3",
+        "android_client_info": {
+          "package_name": "com.qk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmg0nPgWXoFfiRor4llBylEwqKF8L-lSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
